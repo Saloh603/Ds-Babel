@@ -1,6 +1,6 @@
 # Welcome to My Ds Babel
 ***
-<img alt='Qwasar Silicon Valley Logo' src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.simego.com%2Fblog%2Fimport-csv-file&psig=AOvVaw3vR-PaD9hZnTuu4zStDrWR&ust=1699104198521000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLClwMT2p4IDFQAAAAAdAAAAABAE' width='200px'>
+<img alt='Qwasar Silicon Valley Logo' src='[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.simego.com%2Fblog%2Fimport-csv-file&psig=AOvVaw3vR-PaD9hZnTuu4zStDrWR&ust=1699104198521000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLClwMT2p4IDFQAAAAAdAAAAABAE](https://www.simego.com/content/blog/csv-to-sql.png)' width='200px'>
 
 ## Task
 Your mission will be to help translate from one format to another.
