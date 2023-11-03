@@ -1,6 +1,6 @@
 # Welcome to My Ds Babel
 ***
-<img src='https://www.simego.com/content/blog/csv-to-sql.png' width='200px'>
+<img src='https://www.simego.com/content/blog/csv-to-sql.png' width='1000px'>
 
 ## Task
 Your mission will be to help translate from one format to another.
